@@ -1,3 +1,6 @@
 [submodule "script"]
 	path = script
 	url = git@github.com:yuralogi/belajar-git-submodule.git
+	branch = release
+[submodule "scripts"]
+	branch = release
